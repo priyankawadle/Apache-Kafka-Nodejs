@@ -1,4 +1,5 @@
 # Apache-Kafka-Nodejs
+for Architecture of Kafka see image 
 # Tools
 Node.js: Download Node.JS
 Docker: Download Docker
